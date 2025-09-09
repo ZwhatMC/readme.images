@@ -1,5 +1,5 @@
-ReadMe.Images Version:		0004
-ZPack Vanilla Plus Version:		0453 / 045.3
+ReadMe.Images Version:		0005
+ZPack Vanilla Plus Version:		0460 / 046.0
 
 
 -- Versions for ReadMe.Images --
